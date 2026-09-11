@@ -74,5 +74,5 @@
 
 ## Contact
 
-- LinkedIn : ietlsjonibek@gmail.com
-- Email : jonibekhsjsbsj@gmail.com
+- LinkedIn : jonibek.core@gmail.com
+- Email : jonibek.orda@gmail.com
