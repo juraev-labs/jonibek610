@@ -64,11 +64,11 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=jonibek610&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=juraev-labs&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=jonibek610&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=juraev-labs&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonibek610&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juraev-labs&layout=compact&theme=tokyonight)
 
 ---
 
